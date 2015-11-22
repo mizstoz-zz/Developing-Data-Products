@@ -23,7 +23,7 @@ shinyUI(
                         p(
                           'Select at least one predictor to be used in predicting ',
                           'the Fertility. The selected predictors will be used ',
-                          'to fit a generalized linear model on the dataset.  Every selection ',
+                          'to fit a linear model on the dataset.  Every selection ',
                           'will immediately triggers a new model fit and an update of the ',
                           'summary and the visualizations.'
                         ),
